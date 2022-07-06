@@ -1,2 +1,6 @@
-# Linux_Terminal_Course
-Youtube tutorial by Free Code Camp - The 50 Most Popular Linux &amp; Terminal Commands - Full Course for Beginners. Link: https://www.youtube.com/watch?v=ZtqBQ68cfJc
+# The 50 Most Popular Linux and Terminal Commands
+
+> Youtube tutorial by Free Code Camp 
+> Full Course for Beginners. 
+
+Get the Course Here: [Link](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
