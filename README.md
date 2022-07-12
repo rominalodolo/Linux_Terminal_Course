@@ -71,13 +71,16 @@ Get the Linux Command handbook Here: [Link](https://www.freecodecamp.org/news/th
 
 
 ### Why use the command line?
->> More control over your machine
->> 
->> It's faster
->>  
->> Automate many tasks
->> 
->> It's available everywhere 
->> 
->> A basic requirement 
->> 
+> More control over your machine
+> 
+> It's faster
+>  
+> Automate many tasks
+> 
+> It's available everywhere 
+> 
+> A basic requirement 
+> 
+> Cloud computing
+> 
+> Higher paying jobs
