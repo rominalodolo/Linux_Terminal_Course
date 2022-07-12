@@ -127,7 +127,9 @@ Windows Subsystem for Linux [Read Blog Post](https://www.windowscentral.com/how-
  type `q` to quit
 
 ### `clear `
- 
+Clears the terminal screen - `-V` `-x` `[-Ttype]`
+ ![clear](https://user-images.githubusercontent.com/83961643/178581244-5a9eec56-f324-4fe0-b9f6-d157f102bac8.jpeg)
+
 ### `pwd`
  
 ### `ls`
