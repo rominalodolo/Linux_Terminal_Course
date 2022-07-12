@@ -92,11 +92,15 @@ Get the Linux Command handbook Here: [Link](https://www.freecodecamp.org/news/th
  
  Check out the full family tree of the operating systems timeline [Full Image](https://eylenburg.github.io/pics/Eylenburg_Operating_System_Timeline_Family_Tree.svg)
  
- ![Uploading sace.jpeg…]()
+![sace](https://user-images.githubusercontent.com/83961643/178505100-bd71e90b-5305-4e90-9c49-24d5c103ea44.jpeg)
 
- ![linuxhistory](https://user-images.githubusercontent.com/83961643/178504377-961834a2-c866-446e-a62f-5954a721b63a.jpeg)
+![linuxhistory](https://user-images.githubusercontent.com/83961643/178504377-961834a2-c866-446e-a62f-5954a721b63a.jpeg)
 
- [Reference](https://eylenburg.github.io/os_familytree.htm)
+[Reference](https://eylenburg.github.io/os_familytree.htm)
  
+Unix is like the grandfather of Linux. Unix was developed in the 1960s.
+
+
+
  
  
