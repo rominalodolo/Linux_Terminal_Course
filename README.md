@@ -84,3 +84,19 @@ Get the Linux Command handbook Here: [Link](https://www.freecodecamp.org/news/th
 > Cloud computing
 > 
 > Higher paying jobs
+
+
+### The world of Operating systems 
+- Microsoft NT decendents like Wondows, XBox OS, Windows mobile
+- Everything else with lineage going back to Unix which includes Mac OS, linux, andriod, chrome, PS4..
+ 
+ Check out the full family tree of the operating systems timeline [Full Image](https://eylenburg.github.io/pics/Eylenburg_Operating_System_Timeline_Family_Tree.svg)
+ 
+ ![Uploading sace.jpeg…]()
+
+ ![linuxhistory](https://user-images.githubusercontent.com/83961643/178504377-961834a2-c866-446e-a62f-5954a721b63a.jpeg)
+
+ [Reference](https://eylenburg.github.io/os_familytree.htm)
+ 
+ 
+ 
