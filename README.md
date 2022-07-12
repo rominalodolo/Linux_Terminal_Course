@@ -123,18 +123,23 @@ Windows Subsystem for Linux [Read Blog Post](https://www.windowscentral.com/how-
  ![whoami](https://user-images.githubusercontent.com/83961643/178579824-cb9e0e9f-a910-4f3a-86c6-dae6ff7e316b.jpeg)
 
 ### `man`
+
  ![man](https://user-images.githubusercontent.com/83961643/178580144-fa3ad9f6-7ab1-4897-a265-38c24f703a16.jpeg)
  type `q` to quit
 
 ### `clear `
 Clears the terminal screen - `-V` `-x` `[-Ttype]`
+
  ![clear](https://user-images.githubusercontent.com/83961643/178581244-5a9eec56-f324-4fe0-b9f6-d157f102bac8.jpeg)
 
 ### `pwd`
 print working directory 
+
 ![pwd](https://user-images.githubusercontent.com/83961643/178581695-a55f955c-8144-42d4-a128-11e07a729971.jpeg)
 
 ### `ls`
+list contents of a folder
+
 ![ls](https://user-images.githubusercontent.com/83961643/178581726-4f3c2950-c2c1-4e9d-8f35-6ac3af388dcb.jpeg)
 
 
