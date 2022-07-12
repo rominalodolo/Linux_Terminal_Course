@@ -146,6 +146,7 @@ list contents of a folder
 ### `cd`
 Change directory - once in a directory you can move around with cd 
 
+![cd](https://user-images.githubusercontent.com/83961643/178584864-4c9e9f82-82cb-4372-906a-1bc54604b80a.jpeg)
 
 ### `mkdir`
 
