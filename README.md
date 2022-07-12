@@ -131,8 +131,12 @@ Clears the terminal screen - `-V` `-x` `[-Ttype]`
  ![clear](https://user-images.githubusercontent.com/83961643/178581244-5a9eec56-f324-4fe0-b9f6-d157f102bac8.jpeg)
 
 ### `pwd`
- 
+print working directory 
+![pwd](https://user-images.githubusercontent.com/83961643/178581695-a55f955c-8144-42d4-a128-11e07a729971.jpeg)
+
 ### `ls`
+![ls](https://user-images.githubusercontent.com/83961643/178581726-4f3c2950-c2c1-4e9d-8f35-6ac3af388dcb.jpeg)
+
 
 ### `cd`
 
