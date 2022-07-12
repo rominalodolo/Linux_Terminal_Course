@@ -101,6 +101,20 @@ Get the Linux Command handbook Here: [Link](https://www.freecodecamp.org/news/th
 Unix is like the grandfather of Linux. Unix was developed in the 1960s.
 
 
+[Reference](https://commons.wikimedia.org/wiki/File:Unix_history-simple.svg)
 
+ Free software movement - being able to collaborate etc. Leader Richard Stallman. He started GNU. 
+ The linux Kernel was developed by Linus Torvalds. 
+ 
+ True Unix 
+ Unix-Like (not certified version)
+ 
+ Distributions: Fedore, Ubuntu, Debian, Slackware.
+ 
+ Shell exposes the operating system to the user - it's the outer layer of the system like a sea shell 
+ Terminal is a program that runs a shell. 
+ 
+ 
+ 
  
  
