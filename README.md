@@ -144,6 +144,8 @@ list contents of a folder
 
 
 ### `cd`
+Change directory - once in a directory you can move around with cd 
+
 
 ### `mkdir`
 
