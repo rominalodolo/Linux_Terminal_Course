@@ -120,7 +120,8 @@ bash: Most Linux-based systems the default shell program is bash - an acronym fo
 Windows Subsystem for Linux [Read Blog Post](https://www.windowscentral.com/how-install-wsl2-windows-10) 
  
 ### `whoami`
- 
+ ![whoami](https://user-images.githubusercontent.com/83961643/178579824-cb9e0e9f-a910-4f3a-86c6-dae6ff7e316b.jpeg)
+
 ### `man`
  
 ### `clear `
