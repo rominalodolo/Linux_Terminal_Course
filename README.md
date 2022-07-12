@@ -4,6 +4,7 @@
 > Full Course for Beginners. 
 
 Get the Course Here: [Link](https://www.youtube.com/watch?v=ZtqBQ68cfJc)
+
 Get the Linux Command handbook Here: [Link](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
 
 ## Course Contents 
@@ -68,3 +69,15 @@ Get the Linux Command handbook Here: [Link](https://www.freecodecamp.org/news/th
 - (4:31:08) Understanding permissions
 - (4:47:15) chmod
 
+
+### Why use the command line?
+>> More control over your machine
+>> 
+>> It's faster
+>>  
+>> Automate many tasks
+>> 
+>> It's available everywhere 
+>> 
+>> A basic requirement 
+>> 
