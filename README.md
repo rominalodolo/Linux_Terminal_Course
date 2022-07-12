@@ -124,6 +124,7 @@ Windows Subsystem for Linux [Read Blog Post](https://www.windowscentral.com/how-
 
 ### `man`
  ![man](https://user-images.githubusercontent.com/83961643/178580144-fa3ad9f6-7ab1-4897-a265-38c24f703a16.jpeg)
+ type `q` to quit
 
 ### `clear `
  
