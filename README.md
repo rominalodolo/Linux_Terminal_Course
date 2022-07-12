@@ -100,21 +100,115 @@ Get the Linux Command handbook Here: [Link](https://www.freecodecamp.org/news/th
  
 Unix is like the grandfather of Linux. Unix was developed in the 1960s.
 
+![systems](https://user-images.githubusercontent.com/83961643/178508235-edb0af71-88c4-4cae-95fd-e04f61cee618.jpeg)
 
 [Reference](https://commons.wikimedia.org/wiki/File:Unix_history-simple.svg)
 
- Free software movement - being able to collaborate etc. Leader Richard Stallman. He started GNU. 
- The linux Kernel was developed by Linus Torvalds. 
+Free software movement - being able to collaborate etc. Leader Richard Stallman. He started GNU. 
+The linux Kernel was developed by Linus Torvalds. 
  
- True Unix 
- Unix-Like (not certified version)
+True Unix 
+Unix-Like (not certified version)
  
- Distributions: Fedore, Ubuntu, Debian, Slackware.
+Distributions: Fedore, Ubuntu, Debian, Slackware.
  
- Shell exposes the operating system to the user - it's the outer layer of the system like a sea shell 
- Terminal is a program that runs a shell. 
+Shell exposes the operating system to the user - it's the outer layer of the system like a sea shell 
+Terminal is a program that runs a shell. 
+ 
+bash: Most Linux-based systems the default shell program is bash - an acronym for "Bourne-Again SHell"  
  
  
+### `whoami`
  
+### `man`
  
+### `clear `
+ 
+### `pwd`
+ 
+### `ls`
+
+### `cd`
+
+### `mkdir`
+
+### `touch`
+
+### `rmdir`
+
+### `rm`
+
+### `open`
+
+### `mv`
+
+### `cp`
+
+### `head`
+
+### `tail`
+
+### `date`
+
+### `cat`
+
+### `less`
+
+### `echo`
+
+### `wc`
+
+### `piping`
+
+### `sort`
+
+### `uniq`
+
+### `expansions`
+
+### `diff`
+
+### `find`
+
+### `grep`
+
+### `du`
+
+### `df`
+
+### `history`
+
+### `ps`
+
+### `top`
+
+### `kill`
+
+### `killall`
+
+### `jobs`, `bg`, and `fg`
+
+### `gzip`
+
+### `gunzip`
+
+### `tar`
+
+### `nano`
+
+### `alias`
+
+### `xargs`
+
+### `ln`
+
+### `who`
+
+### `su`
+
+### `sudo`
+
+### `passwd`
+
+### `chown`
  
