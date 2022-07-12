@@ -174,6 +174,9 @@ Creates files
 ### `rmdir`
 
 ### `rm`
+Remove 
+![rm](https://user-images.githubusercontent.com/83961643/178592017-aecc86ee-90dd-40cc-a23d-a30761664433.jpeg)
+
 
 ### `open`
 
