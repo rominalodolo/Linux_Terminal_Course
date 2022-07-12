@@ -151,6 +151,10 @@ Change directory - once in a directory you can move around with cd
 
 `cd ..` takes you back a level 
 
+[How directory is structured](https://www.seobility.net/en/wiki/Root_Directory) 
+![Root-Directory](https://user-images.githubusercontent.com/83961643/178587347-4bac8c3d-1702-47ca-af52-29609ca2fbdb.png)
+` cd / `  Takes you to the root directory 
+
 ### `mkdir`
 
 ### `touch`
