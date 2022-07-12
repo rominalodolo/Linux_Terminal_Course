@@ -116,7 +116,8 @@ Shell exposes the operating system to the user - it's the outer layer of the sys
 Terminal is a program that runs a shell. 
  
 bash: Most Linux-based systems the default shell program is bash - an acronym for "Bourne-Again SHell"  
- 
+
+Windows Subsystem for Linux [Read Blog Post](https://www.windowscentral.com/how-install-wsl2-windows-10) 
  
 ### `whoami`
  
