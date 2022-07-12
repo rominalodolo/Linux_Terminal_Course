@@ -123,7 +123,8 @@ Windows Subsystem for Linux [Read Blog Post](https://www.windowscentral.com/how-
  ![whoami](https://user-images.githubusercontent.com/83961643/178579824-cb9e0e9f-a910-4f3a-86c6-dae6ff7e316b.jpeg)
 
 ### `man`
- 
+ ![man](https://user-images.githubusercontent.com/83961643/178580144-fa3ad9f6-7ab1-4897-a265-38c24f703a16.jpeg)
+
 ### `clear `
  
 ### `pwd`
