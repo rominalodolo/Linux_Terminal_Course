@@ -153,9 +153,16 @@ Change directory - once in a directory you can move around with cd
 
 [How directory is structured](https://www.seobility.net/en/wiki/Root_Directory) 
 ![Root-Directory](https://user-images.githubusercontent.com/83961643/178587347-4bac8c3d-1702-47ca-af52-29609ca2fbdb.png)
+
 ` cd / `  Takes you to the root directory 
 
+` cd ~/Desktop/ ` will take you to home directory 
+
 ### `mkdir`
+make directory - it creates folders for you 
+![mkdir](https://user-images.githubusercontent.com/83961643/178588189-69e45437-a791-4c15-81e8-86c520673752.jpeg)
+
+![newfolder](https://user-images.githubusercontent.com/83961643/178588997-13feff7d-67b5-4504-ba76-8c6bf36d3f64.jpeg)
 
 ### `touch`
 
