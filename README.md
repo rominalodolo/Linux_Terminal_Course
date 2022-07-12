@@ -165,6 +165,7 @@ make directory - it creates folders for you
 ![newfolder](https://user-images.githubusercontent.com/83961643/178588997-13feff7d-67b5-4504-ba76-8c6bf36d3f64.jpeg)
 
 ### `touch`
+Main use is to update the file timestamp - if you create new files they are completely empty 
 Creates files 
 ![file](https://user-images.githubusercontent.com/83961643/178590346-b8916a35-c57d-4637-a2e9-7463e7ee26b0.jpeg)
 
