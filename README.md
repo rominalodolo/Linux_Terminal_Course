@@ -247,6 +247,8 @@ Via pipes, we can count the output of running the `ls -al` command
 ### `sort`
 Helps you sort them by name. Sorts the output. But does not store it. Case sensitive. You can tell it not the be cas sensitive. 
 
+` cat file1 file2 | sort ` will concatinate the two files then sort them 
+
 ### `uniq`
 
 ### `expansions`
