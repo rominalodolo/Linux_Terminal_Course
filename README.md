@@ -306,7 +306,7 @@ Displays all the history. Typically the last 500 commands are stored in the hist
 
 
 ### `ps`
-Your computer is running tons of different processes at all times.
+Process Status: Your computer is running tons of different processes at all times.
 Inspect them all using the ps command. 
 
 `I` a process that is idle (sleeping for longer than about 20 seconds)
@@ -317,6 +317,9 @@ Inspect them all using the ps command.
 `Z` a dead process (a zombie)
 
 ### `top`
+Used to display dynamic real-time information about running processes in the system.
+![top](https://user-images.githubusercontent.com/83961643/178721063-36fdd498-0c87-4369-a24e-54b3072c206a.jpeg)
+
 
 ### `kill`
 Main function: terminate a program
