@@ -215,7 +215,7 @@ You can redirect the information to a file and store results in a file.
 so if you want to move date to a file - ` date > today.txt` will create the file with that information stored there.
 
 ### `cat`
-
+Add content to a file. Concatanates files. You can print the content of multiple files.
 
 ### `less`
 
@@ -277,4 +277,6 @@ Helps you sort them by name
 ### `passwd`
 
 ### `chown`
- 
+Every file/directory in an Operating System like Linux or macOS (and every UNIX system in general) has an owner.
+The owner of a file can do everything with it. It can decide the fate of that file.
+You can use chown to transfer the ownership to you etc.
