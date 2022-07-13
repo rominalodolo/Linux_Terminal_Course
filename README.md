@@ -348,7 +348,7 @@ Every file/directory in an Operating System like Linux or macOS (and every UNIX 
 The owner of a file can do everything with it. It can decide the fate of that file.
 You can use chown to transfer the ownership to you etc.
 
-### Ping 
+### `ping` 
 The ping command pings a specific network host, on the local network or on the Internet
 `ping <host>` <host> could be a domain name, or an IP address
 
