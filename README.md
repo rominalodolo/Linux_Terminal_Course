@@ -263,7 +263,13 @@ Will give the output of the two files that are almost the same but not. The outp
 ` diff file1.txt file2.txt `
 
 ### `find`
+Helps you find files. 
 
+eg: ` find . -name '7' ` to find anything with number 7 in it 
+
+![find1](https://user-images.githubusercontent.com/83961643/178716170-12b25fea-504c-435c-9acc-d5bf969820d8.jpeg)
+
+![find2](https://user-images.githubusercontent.com/83961643/178716181-5e18f23f-0e41-4b67-ad24-336e069e9c61.jpeg)
 
 
 ### `grep` 
@@ -320,6 +326,9 @@ Sends the signal to multiple processes at once instead of sending a signal to a 
 ### `tar`
 
 ### `nano`
+Beginner friendly editor `nano <filename>`.
+Quit using ` ctrl-X `
+
 
 ### `alias`
 
