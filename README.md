@@ -178,13 +178,18 @@ removes a directory - look at `mkdir`
 ### `rm`
 Remove 
 ![rm](https://user-images.githubusercontent.com/83961643/178592017-aecc86ee-90dd-40cc-a23d-a30761664433.jpeg)
-
+` -v ` with give info like verbose/verbatim  
 
 ### `open`
+open is a MAC only command but it opens files 
 
 ### `mv`
+moves files and can change the name of the files 
+![mv](https://user-images.githubusercontent.com/83961643/178697987-01b5d23e-b9ca-43a2-974d-d2ff932c7941.jpeg)
 
 ### `cp`
+Copy files and folders 
+
 
 ### `head`
 
