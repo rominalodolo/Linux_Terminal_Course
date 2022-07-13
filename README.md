@@ -202,10 +202,20 @@ Outputs the last 10 lines of a file.
 
 ### `date`
 Prints out the date 
+
 ![date](https://user-images.githubusercontent.com/83961643/178701406-347062c9-7d8d-49db-a149-27a9119559e8.jpeg)
 
+You can change how the date is displayed. 
+
+You can redirect 
+
+### Redirecting standard output 
+You can redirect the information to a file and store results in a file.  
+` > ` 
+so if you want to move date to a file - ` date > today.txt` will create the file with that information stored there.
 
 ### `cat`
+
 
 ### `less`
 
@@ -216,6 +226,7 @@ Prints out the date
 ### `piping`
 
 ### `sort`
+Helps you sort them by name
 
 ### `uniq`
 
