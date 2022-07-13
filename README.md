@@ -321,8 +321,16 @@ Sends the signal to multiple processes at once instead of sending a signal to a 
 ### `jobs`, `bg`, and `fg`
 
 ### `gzip`
+Compress a file using the gzip compression protocol named LZ77.
+
+`gzip filename` This will compress the file, and append a .gz extension to it. The original file is deleted.
+
+`gzip filename1 filename2` Compress multiple files by listing them.
+
+`gzip -r a_folder` Compress all the files in a directory, recursively, using the -r option
 
 ### `gunzip`
+
 
 ### `tar`
 
