@@ -332,7 +332,7 @@ Runs a command as root
 
 
 ### `passwd`
-
+Users in Linux have a password assigned. You can change the password using the `passwd` command.
 
 
 ### `chown`
