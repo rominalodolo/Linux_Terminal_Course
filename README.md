@@ -339,3 +339,10 @@ Users in Linux have a password assigned. You can change the password using the `
 Every file/directory in an Operating System like Linux or macOS (and every UNIX system in general) has an owner.
 The owner of a file can do everything with it. It can decide the fate of that file.
 You can use chown to transfer the ownership to you etc.
+
+### Ping 
+The ping command pings a specific network host, on the local network or on the Internet
+`ping <host>` <host> could be a domain name, or an IP address
+
+
+## LAST EDIT July 2022
