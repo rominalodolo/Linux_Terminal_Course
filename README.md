@@ -253,7 +253,9 @@ Helps you sort them by name
 
 ### `find`
 
-### `grep`
+### `grep` 
+Stands for global regular expression print
+
 Search in files, or combine it with pipes to filter the output of another command.
 
 ### `du`
@@ -267,6 +269,29 @@ Search in files, or combine it with pipes to filter the output of another comman
 ### `top`
 
 ### `kill`
+Main function: terminate a program
+
+`HUP` means hang up. It's sent automatically when a terminal window that started a process is closed before terminating the process.
+
+`INT` means interrupt, and it sends the same signal used when we press ctrl-C in the terminal, which usually terminates the process.
+
+`KILL` is not sent to the process, but to the operating system kernel, which immediately stops and terminates the process.
+
+`TERM` means terminate. The process will receive it and terminate itself. It's the default signal sent by kill.
+
+`CONT` means continue. It can be used to resume a stopped process.
+
+`STOP` is not sent to the process, but to the operating system kernel, which immediately stops (but does not terminate) the process.
+
+You might see numbers used instead
+- eg: `kill -1 <PID>`.
+
+`1` corresponds to HUP.
+`2` corresponds to INT.
+`9` corresponds to KILL.
+`15` corresponds to TERM.
+`18` corresponds to CONT.
+`15` corresponds to STOP.
 
 ### `killall`
 
