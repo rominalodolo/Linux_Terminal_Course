@@ -278,6 +278,8 @@ Stands for global regular expression print
 
 Search in files, or combine it with pipes to filter the output of another command.
 
+You can provide REGEX patterns to your command to make it more powerful and do more. 
+
 ### `du`
 
 ### `df`
