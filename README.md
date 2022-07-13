@@ -328,8 +328,12 @@ Sends the signal to multiple processes at once instead of sending a signal to a 
 
 ### `sudo`
 Runs a command as root 
+` sudo -i ` ![root](https://user-images.githubusercontent.com/83961643/178710876-53e4936e-a758-431f-9e52-dd15b4e405ef.jpeg)
+
 
 ### `passwd`
+
+
 
 ### `chown`
 Every file/directory in an Operating System like Linux or macOS (and every UNIX system in general) has an owner.
