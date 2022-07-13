@@ -233,6 +233,12 @@ Quit the session using `q`
 Echos back the same output as input. But you can make a new file and redirect it. 
 
 ### `wc`
+Word count
+
+![wc](https://user-images.githubusercontent.com/83961643/178706276-0098a27c-10e0-44ca-963d-1ac63a9877cc.jpeg)
+
+Via pipes, we can count the output of running the `ls -al` command
+
 
 ### `piping`
 
