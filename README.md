@@ -201,6 +201,9 @@ You can specify the amount of lines you want of the file. But you will automatic
 Outputs the last 10 lines of a file. 
 
 ### `date`
+Prints out the date 
+![date](https://user-images.githubusercontent.com/83961643/178701406-347062c9-7d8d-49db-a149-27a9119559e8.jpeg)
+
 
 ### `cat`
 
