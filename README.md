@@ -327,6 +327,7 @@ Sends the signal to multiple processes at once instead of sending a signal to a 
 ### `su`
 
 ### `sudo`
+Runs a command as root 
 
 ### `passwd`
 
