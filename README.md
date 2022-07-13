@@ -294,6 +294,10 @@ You can see the size of files on your machine.
  sort the directories by size: `du -h <directory> | sort -nr` piping to head to only get the first 10 results
 
 ### `df`
+Display free disk space
+
+![df](https://user-images.githubusercontent.com/83961643/178719846-aad36ced-4f36-48cd-aa22-4c63f42bfcd3.jpeg)
+
 
 ### `history`
 
