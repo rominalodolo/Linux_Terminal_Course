@@ -325,6 +325,11 @@ Sends the signal to multiple processes at once instead of sending a signal to a 
 ### `who`
 
 ### `su`
+While you're logged in to the terminal shell with one user, you might need to switch to another user.
+`su <username>` 
+su will start a new shell as another user.
+When you're done, typing exit in the shell will close that shell, and will return you back to the current user's shell.
+
 
 ### `sudo`
 Runs a command as root 
