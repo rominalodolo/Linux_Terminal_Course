@@ -294,6 +294,9 @@ You might see numbers used instead
 `15` corresponds to STOP.
 
 ### `killall`
+Sends the signal to multiple processes at once instead of sending a signal to a specific process id.
+`killall <name>`
+
 
 ### `jobs`, `bg`, and `fg`
 
