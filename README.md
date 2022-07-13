@@ -281,6 +281,17 @@ Search in files, or combine it with pipes to filter the output of another comman
 You can provide REGEX patterns to your command to make it more powerful and do more. 
 
 ### `du`
+Disk Usage 
+You can see the size of files on your machine. 
+![size](https://user-images.githubusercontent.com/83961643/178719244-eb3f10c7-4d7f-4148-8b40-13323af40200.jpeg)
+
+ MegaBytes using `du -m`
+ GigaBytes using `du -g`
+ 
+ `-h` option will show a human-readable notation for sizes
+ `-a` option will print the size of each file in the directories
+ 
+ sort the directories by size: `du -h <directory> | sort -nr` piping to head to only get the first 10 results
 
 ### `df`
 
