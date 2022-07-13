@@ -250,6 +250,10 @@ Helps you sort them by name. Sorts the output. But does not store it. Case sensi
 ` cat file1 file2 | sort ` will concatinate the two files then sort them 
 
 ### `uniq`
+Unique command - sorts lines of text. Get the lines from a file or using pipes from the output of another command 
+` uniq file.txt ` 
+
+` ls | uniqu `
 
 ### `expansions`
 
