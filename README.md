@@ -256,7 +256,7 @@ Unique command - sorts lines of text. Get the lines from a file or using pipes f
 ` ls | uniqu `
 
 ### Expansions
-`~` `$PATH` 
+`~` `$PATH` `*` 
 
 ### `diff`
 
