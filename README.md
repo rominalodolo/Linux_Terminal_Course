@@ -225,6 +225,9 @@ Add content to a file. Concatanates files. You can print the content of multiple
 
 
 ### `less`
+Shows the content stored inside a file, in a nice and interactive UI.
+Quit the session using `q`
+
 
 ### `echo`
 
