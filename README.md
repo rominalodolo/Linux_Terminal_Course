@@ -241,9 +241,11 @@ Via pipes, we can count the output of running the `ls -al` command
 
 
 ### `piping`
+` | ` used to pipe, or transfer, the standard output from the command on its left into the standard input of the command on its right.
+
 
 ### `sort`
-Helps you sort them by name
+Helps you sort them by name. Sorts the output. But does not store it. Case sensitive. You can tell it not the be cas sensitive. 
 
 ### `uniq`
 
