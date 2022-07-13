@@ -217,6 +217,13 @@ so if you want to move date to a file - ` date > today.txt` will create the file
 ### `cat`
 Add content to a file. Concatanates files. You can print the content of multiple files.
 
+1. prints a file's content to the standard output `cat file`
+2. print the content of multiple files `cat file1 file2`
+3. you can concatenate the content of multiple files into a new file `cat file1 file2 > file3`
+4. `>>` append the content of multiple files into a new file, creating it if it does not exist `cat file1 file2 >> file3`
+5. `-n` Prints line numbers `cat -n file1`
+
+
 ### `less`
 
 ### `echo`
