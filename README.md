@@ -352,6 +352,13 @@ Sends the signal to multiple processes at once instead of sending a signal to a 
 
 
 ### `jobs`, `bg`, and `fg`
+bg - background 
+fg - foreground 
+These go hand in hand - When we run a command in Linux / macOS, we can set it to run in the background using the & symbol after the command.
+Eg: `top &` handy for long-running programs
+
+
+
 
 ### `gzip`
 Compress a file using the gzip compression protocol named LZ77.
