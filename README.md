@@ -300,8 +300,21 @@ Display free disk space
 
 
 ### `history`
+Displays all the history. Typically the last 500 commands are stored in the history.
+
+`history -c` clear the history,
+
 
 ### `ps`
+Your computer is running tons of different processes at all times.
+Inspect them all using the ps command. 
+
+`I` a process that is idle (sleeping for longer than about 20 seconds)
+`R` a runnable process
+`S` a process that is sleeping for less than about 20 seconds
+`T` a stopped process
+`U` a process in uninterruptible wait
+`Z` a dead process (a zombie)
 
 ### `top`
 
