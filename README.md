@@ -259,8 +259,12 @@ Unique command - sorts lines of text. Get the lines from a file or using pipes f
 `~` `$PATH` `*` 
 
 ### `diff`
+Will give the output of the two files that are almost the same but not. The output will be the files that are NOT the same. 
+` diff file1.txt file2.txt `
 
 ### `find`
+
+
 
 ### `grep` 
 Stands for global regular expression print
