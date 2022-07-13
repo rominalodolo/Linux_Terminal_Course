@@ -230,6 +230,7 @@ Quit the session using `q`
 
 
 ### `echo`
+Echos back the same output as input. But you can make a new file and redirect it. 
 
 ### `wc`
 
@@ -247,6 +248,7 @@ Helps you sort them by name
 ### `find`
 
 ### `grep`
+Search in files, or combine it with pipes to filter the output of another command.
 
 ### `du`
 
