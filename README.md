@@ -190,10 +190,15 @@ moves files and can change the name of the files
 ### `cp`
 Copy files and folders 
 
+To copy folders you need to add the -r option to recursively copy the whole folder contents
+
 
 ### `head`
+Outputs the first part of files - tail would be the end 
+You can specify the amount of lines you want of the file. But you will automatically get the first 10 lines. 
 
 ### `tail`
+Outputs the last 10 lines of a file. 
 
 ### `date`
 
