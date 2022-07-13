@@ -330,9 +330,18 @@ Compress a file using the gzip compression protocol named LZ77.
 `gzip -r a_folder` Compress all the files in a directory, recursively, using the -r option
 
 ### `gunzip`
-
+An equivalent to the gzip command, except the -d option is always enabled by default.
+`gunzip filename.gz` This will gunzip and will remove the .gz extension, putting the result in the filename file. If that file exists, it will overwrite that.
 
 ### `tar`
+tape archive
+Creates an archive named archive.tar with the content of file1 and file2
+`tar -cf archive.tar file1 file2` The `c` option stands for create. The `f` option is used to write to file the archive.
+
+Extract files from an archive in the current folder: `tar -xf archive.tar`
+`x` stands for extract
+
+Extract them to a specific directory `tar -xf archive.tar -C directory`
 
 ### `nano`
 Beginner friendly editor `nano <filename>`.
@@ -340,6 +349,9 @@ Quit using ` ctrl-X `
 
 
 ### `alias`
+Running a program with a set of options that you like using. 
+
+alias will work until the terminal session is closed.
 
 ### `xargs`
 
