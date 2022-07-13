@@ -172,6 +172,8 @@ Creates files
 ` touch red.pdf orange.txt blue.svg `
 
 ### `rmdir`
+removes a directory - look at `mkdir`
+
 
 ### `rm`
 Remove 
