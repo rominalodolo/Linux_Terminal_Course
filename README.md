@@ -255,7 +255,8 @@ Unique command - sorts lines of text. Get the lines from a file or using pipes f
 
 ` ls | uniqu `
 
-### `expansions`
+### Expansions
+`~` `$PATH` 
 
 ### `diff`
 
@@ -323,6 +324,8 @@ Sends the signal to multiple processes at once instead of sending a signal to a 
 ### `ln`
 
 ### `who`
+Displays the users logged in to the system
+
 
 ### `su`
 While you're logged in to the terminal shell with one user, you might need to switch to another user.
