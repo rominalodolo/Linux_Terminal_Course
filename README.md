@@ -397,6 +397,12 @@ Running a program with a set of options that you like using.
 alias will work until the terminal session is closed.
 
 ### `xargs`
+Convert input from standard input into arguments to a command ie: the output of a command is used as the input of another command.
+`command1 | xargs command2`
+
+Use a pipe (|) to pass the output to xargs. That will take care of running the command2 command, using the output of command1 as its argument(s).
+
+
 
 ### `ln`
 
