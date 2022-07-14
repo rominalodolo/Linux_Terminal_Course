@@ -403,8 +403,10 @@ Convert input from standard input into arguments to a command ie: the output of 
 Use a pipe (|) to pass the output to xargs. That will take care of running the command2 command, using the output of command1 as its argument(s).
 
 
-
 ### `ln`
+Used to create links.
+![link](https://user-images.githubusercontent.com/83961643/178966920-89125d5c-8758-4491-823f-9788cf0b51da.jpeg)
+
 
 ### `who`
 Displays the users logged in to the system
